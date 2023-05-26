@@ -11,6 +11,6 @@ Feature: Test the login functionality of OrangeHRM
 
     Examples: 
       | username | password  |
-      | rajesh143702@gmail.com | Rajesh0007@ |
+      | rajesh656456@gmail.com | Rajesh6837@ |
       | 9059846459@gmail.com   | Nikesh@1739 |
      
